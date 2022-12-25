@@ -131,7 +131,7 @@ export default function Weather() {
       <footer>
         <p>
           <a
-            href="https://github.com/KseniiaTsyplakova/my-weather-app"
+            href="https://github.com/KseniiaTsyplakova/react-weather-app"
             target="_blank"
             rel="noreferrer"
             className="gitLink"
