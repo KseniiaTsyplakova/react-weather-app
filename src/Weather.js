@@ -136,7 +136,7 @@ export default function Weather() {
             rel="noreferrer"
             className="gitLink"
           >
-            Open-source by{" "}
+            Open-source code by{" "}
           </a>
           by Kseniia Tsyplakova
         </p>
